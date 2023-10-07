@@ -2,7 +2,7 @@ const objects = {
     FirstName: 'Пушкин',
     LastName: 'Александер',
     Secondname: null,
-    Patronomic: 'Александорович',
+    Patronomic: ' Серегейвич ',
     FullName: 'Пушкин Александер Серегейвич ',
     MidName: undefined,
     gender: 'male',
